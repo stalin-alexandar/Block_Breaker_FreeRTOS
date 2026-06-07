@@ -1,0 +1,24 @@
+# Build artifacts
+Debug/
+Release/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.launch
+
+# IDE files
+.settings/
+.project
+.cproject
+*.mxproject
+
+# OS files
+.DS_Store
+Thumbs.db
+nul
